@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rodgeralex44@gmail.com**
 
-- ⚡ Fun fact **Gamer at night, Coder by heart!**
+- ⚡ **Gamer at night, Coder by heart!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
