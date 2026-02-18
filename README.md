@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Python, Java, C, C++, Arduino, IoT, PyGame**
+- 💬 Ask me about **Python, Java, C, C++, Arduino, IoT, GameDev**
 
 - 📫 How to reach me **rodgeralex44@gmail.com**
 
