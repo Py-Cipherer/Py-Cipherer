@@ -1,25 +1,25 @@
-# Hi 👋, I'm Alex Raj
+# Hi 👋, I'm Alex
 
 ### A passionate Python developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Py-Cipherer" alt="Py-Cipherer" /></a> </p>
 
-- 🔭 I'm currently working on **various projects based on AI-ML, Robotics, Python-Tools**
+- 🔭 I'm currently working on **various projects based on AI-ML, Robotics, GameDev, Cybersecurity**
 
-- 🌱 I'm currently learning **Game Development**
+- 🌱 I'm currently learning **Artificial Intelligence & Machine Learning**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Python, Java, C, C++, C#, Arduino, IoT, GameDev**
+- 💬 Ask me about **Python, Java, C, C++, Arduino, IoT, GameDev, DSA, ML, AI, **
 
 - 📫 How to reach me **rodgeralex44@gmail.com**
 
-- ⚡ **Gamer at night, Coder by heart!**
+- ⚡ **Coder heart, Gamer soul!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Py-Cipherer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Py-Cipherer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pycipherer42alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pycipherer42alex" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pycipherer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pycipherer42alex" height="30" width="40" /></a>
 <a href="https://instagram.com/pycipherer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pycipherer" height="30" width="40" /></a>
 <a href="https://twitter.com/Py_Cipherer42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Py_Cipherer42" height="30" width="40" /></a>
 <a href="https://leetcode.com/py-cipherer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="py-cipherer" height="30" width="40" /></a>
